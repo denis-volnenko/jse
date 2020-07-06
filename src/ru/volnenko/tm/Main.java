@@ -1,5 +1,8 @@
 package ru.volnenko.tm;
 
+/**
+ * Тестовое приложение
+ */
 public class Main {
 
     public static void main(String[] args) {
