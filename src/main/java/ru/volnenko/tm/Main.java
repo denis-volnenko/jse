@@ -25,7 +25,7 @@ public class Main {
     }
 
     private static void displayError() {
-        System.out.println("Error! Unknown program argument...");
+        System.out.println("Error!!! Unknown program argument...");
         System.exit(-1);
     }
 
